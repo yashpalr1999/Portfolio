@@ -1,0 +1,42 @@
+#profile{
+    border-radius: 50%;
+}
+.card-parent{
+    display: flex;
+    flex-direction: row;
+    margin: 100px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.skills-but{
+    padding: 10px 10px 10px 10px;
+}
+#skills{
+    text-align: center;
+    
+}
+.card-parent2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 100px;
+    justify-content: space-evenly;
+}
+.card{
+    margin: 10px;
+}
+.Achievements{
+    text-align: center;
+}
+.container.col-xxl-8.px-4.py-5{
+    background-color: beige;
+}
+.work-ex{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 40px;
+    padding: 40px;
+    gap: 10px;
+}
